@@ -1,0 +1,2 @@
+# Ideas
+Ensure all asynchronous state updates are correctly waited for
